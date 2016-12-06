@@ -7,4 +7,4 @@ clean:
 	rm -rf *~ ida
 
 docker: ida
-	docker build -t rvandegrift/ida:latest .
+	docker build -t cleardata/ida:latest .
