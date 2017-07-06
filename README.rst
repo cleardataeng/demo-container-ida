@@ -2,8 +2,8 @@ ida
 ===
 
 ``ida`` is a small and simple demo web service.  It uses `dactyl
-<https://bitbucket.org/rvandegrift/dactyl>`_ as an example of composing
-services.
+<https://github.com/cleardataeng/demo-container-dactyl>`_ as an
+example of composing services.
 
 ``ida`` supports a single endpoint at ``/``, and only handles ``GET``
 requests.
